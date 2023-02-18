@@ -1,6 +1,9 @@
 function App() {
   return (
-    <div>Hello</div>
+    <div>
+      <h1>My Todos</h1>
+      <Todo />
+    </div>
   );
 }
 
